@@ -1,22 +1,25 @@
 # ComputationalPhysics
 
-Welcome to computational physics! This is the repository with the [syllabus](./syllabus/syllabus.pdf), [problem sets](./problems), and [notebook_lectures](./notebook_lectures. Other useful links:
+Welcome to computational physics! This is the repository with the [syllabus](./syllabus/SyllabusPhysics301.pdf) and [notebook_lectures](./notebook_lectures. Other useful links:
 
 * [JupyterBook](https://)
-* [This repository official location](https://)
+* [This repository official location](https://https://github.com/ahromero/ComputationalPhysics)
+*[Offitial repository for homeworks and projects] (https://classroom.github.com/classrooms/70040058-comp-phys-fall-2020-wvu-classroom-1)
 
 ### Topics and links
 
 * Week 1
-    * [Introduction and game rules](https://github.com/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week1/Introduction.md)
-    * [How Git Works](https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/HowGitWorks2_0b.pdf)
-    * [Introduction to Shell](https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/LinuxShell.pdf)
+    * [Introduction and game rules](https://github.com/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week1/Introduction-to-Computational-Physics.md)
+    * [Google colab] (https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/IntroductionGoogleColab.pdf)
+    * [How Git Works](https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/HowGitWorks.pdf)
+    * [Introduction to Shell](https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/IntroductionShell.pdf)
 * Week 2
-    * [Introduction to Python](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/IntroductionPython.ipynb)
-    * [Numpy and Scipy](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/NumpyScipy.ipynb)
+    * [Introduction to Python](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/Introduction_to_Python.ipynb)
+     * [Numpy](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/Numpy.ipynb)
+     * [Matplotlib](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/Matplotlib.ipynb)   
 * Week 3
+    * [Scipy](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/Numpy.ipynb)
     * [Error Accumulation](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/notebook_lectures/week3/Errors.ipynb)
-    * [Matplotlib](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week3/Matplotlib.ipynb)
     * [Databases](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week3/Pandas.ipynb)
 * Week 4
     * [Random Numbers](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Random_numbers.ipynb)
