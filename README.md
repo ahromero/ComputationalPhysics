@@ -25,7 +25,8 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
     * [Random Numbers](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Random_numbers.ipynb)
     * [Monte Carlo](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/MC.ipynb)
       • [Random Walk](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/RandomWalk.ipynb)
-    * [Projects](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Projects.pdf)
+    * [Projects](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Projects_CP.md)
+      • [Project Approach](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Projects.pdf)
     * [Integration rules](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Integration.ipynb)
 * Week 5
     * [Integration rules](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week5/Integration.ipynb)
