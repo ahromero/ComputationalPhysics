@@ -25,11 +25,11 @@ The following are general ideas that you can modify as you please but at the end
 
 All projects involved a part where you solve the problem, a graphical part that shows the solution or show the dynamics and  a part where you can vay the conditions of the problem to see the effects.
 
-+ Self avoiding random walk in 3 Dimensions with random objects disposed in a given domain.
-+ Wave propagation on membranes (continuous) in 2D with simple objects.
++ Self avoiding random walk in 3 Dimensions with random objects disposed along its path in a given domain.
++ Wave propagation on membranes (continuous) in 2D with simple geometries (circular, square, etc)
 + Lennard Jones molecular dynamics in 2D and 3D with obstacles in fixed volume.
-+ Model of electric discharge by using diffusion limited aggregation (with external fields)
-+ Propagation of pulse in nonlinear media (modeled by balls and non linear springs)
++ Model of electric discharge by using diffusion limited aggregation (with external fields).
++ Propagation of pulse in nonlinear media (modeled by balls and non linear springs).
 + The motion of asteroid 3753 Cruithne --Earth's second Moon? The near-Earth asteroid 3753 Cruithne is now known to be a companion, and an unusual one, of the Earth. This asteroid shares the Earth's  orbit, its motion 'choreographed' in such a way as to remain stable  and avoid colliding with our planet. This relationship was revealed in a paper by Paul Wiegert, Kim Innanen and Seppo Mikkola, and published in Nature on June 12, 1997.  However, Cruithne's path is much more complicated than simple satellite motion.  The aim of this project is to write a program to simulate the orbit of Cruithne and to investigate its stability.
 + Time dependent Schrödinger. Diffusion of wave  (particles) in moving wells.
 + Granular media in 2D. 2D rigid spheres with specific interaction and you need to simulate the behavior of the media with different conditions (shaking the bottom, expanding or compressing the walls).

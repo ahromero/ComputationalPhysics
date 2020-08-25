@@ -45,29 +45,32 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
     * [Linear Regression](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/notebook_lectures/week6/Fitting.ipynb)
       • [Spline Fit](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/notebook_lectures/week6/Spline_fit.ipynb)
 * Week 7
-    * [Histograms and Cuts](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week7/Histograms.ipynb)
+    * [Example Worksheet](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week7/WorksheetExample.ipynb)
     * [Probability_distributions](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week7/ProbabilityDistributions.ipynb)
-    * [Minimizing and Fitting Distributions](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week7/Fitting.ipynb)
+    * [Minimizing and Fitting Probability Distributions](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week7/FittingProbDistributions.ipynb)
+    * [Tools for Fitting Probability Distributions](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week7/Fittingtools.ipynb)
 * Week 8
-    * [Fitting Tools](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week8/Fittingtools.ipynb)
     * [Confidence Intervals](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week8/Confidence_intervals.ipynb)
     * [Markov Chain Monte Carlo](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week8/MCMC.ipynb)
+    * [Computational performance](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week8/ComputationalPerformace.ipynb)
 * Week 9
-    * [Performance Computing](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week9/HPC.ipynb)
-     * [Intro to ODEs](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week9/ODE.ipynb)
-      • [Profiling Code, Reading and Writing Files](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week9/Profiling.ipynb)
+    * [Performance Computing](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week9/HPC_Performance.ipynb)
+     • [Profiling Code, Reading and Writing Files](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week9/Profiling.ipynb)
+    * [The Runge–Kutta Algorithm](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week9/RK.ipynb)
+    * [Intro to ODEs](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week9/ODE.ipynb)
 * Week 10
-    * [The Runge–Kutta Algorithm](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week10/RK.ipynb)
     * [Solving ODE](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week10/Solving_ode.ipynb)
     * [Fourier Series](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/Fourier_series.ipynb)
     * [Fast Fourier Transform](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/FFT.ipynb)
 * Week 11: Fourier Series
-    * [Signal Filtering](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/Signalfiltering.ipynb)
+    * [Signal Filtering](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/SignalFiltering.ipynb)
     * [Wavelets](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/Wavelets.ipynb)
+    * [Deeper in Fitting](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/DeeperInFitting.ipynb)
 * Week 12: Assorted topics
     * [Molecular Dynamics](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week12/MD.ipynb)
     * [Fitting Revisited](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week12/Fitting.ipynb)
     * [GUIs](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week12/guis.ipynb)
+    * [Graphical User Interfaces](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/GUI.ipynb)
 * Week 13: Partial Differential Equations
     * [PDEs part 1](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week13/PDE_1.ipynb)
     * [PDEs Part 2](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week13/PDE_2.ipynb)
